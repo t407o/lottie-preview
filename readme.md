@@ -25,3 +25,7 @@ sed -i '' 's|popup.js|index.js|g' lottie-player/index.html
 ```
 
 - load local extention into chrome (see: https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
+
+# Special Thanks
+
+- ChatGPT (Almost all the code is taken from ChatGPT)
